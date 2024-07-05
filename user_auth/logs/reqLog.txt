@@ -1,0 +1,11 @@
+20240126	23:42:42	0d72c260-ed66-4bff-ae24-c9b92410e974	GET	undefined	/
+20240126	23:42:42	0a0528e1-5262-452c-9efd-d4bf0b12a765	GET	undefined	/css/style.css
+20240126	23:42:42	8f4edace-4616-4304-b0a1-3543ea3b4f68	GET	undefined	/favicon.ico
+20240126	23:42:45	3a91f85e-5c9b-493f-8e76-6bbabf639c12	GET	undefined	/register
+20240126	23:42:45	7c8a73a2-2e5b-4b1d-bf2a-d889a5abcf59	GET	undefined	/css/style.css
+20240126	23:43:32	ba0eca8a-f1c9-418c-88e2-aed6a24431cc	GET	undefined	/register
+20240126	23:43:39	dcd4a364-4e21-4ce1-8ac7-4940ead753f5	POST	undefined	/register
+20240126	23:45:38	dd9c87c7-091b-4011-9a96-a39fda9ba7d0	POST	undefined	/register
+20240126	23:45:44	8322e8eb-c84e-44fd-8b7d-86f928368fe8	GET	undefined	/register
+20240126	23:45:44	a6ecad6a-3d94-4243-8227-9f415308b5fb	GET	undefined	/css/style.css
+20240126	23:46:28	212c49e8-552d-4935-8797-a560e80a7678	GET	undefined	/css/style.css

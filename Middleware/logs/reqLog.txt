@@ -1,0 +1,17 @@
+20240124	23:37:27	52d3d632-5b8d-450f-9ff8-1199de7d416f	GET	undefined	/new-page
+20240124	23:37:27	6ffdd7ba-6597-4383-92d8-16815fea28dd	GET	undefined	/css/style.css
+20240124	23:37:27	bcc8dafd-97bb-45c2-8ae2-1074587f2f9d	GET	undefined	/img/img1.jpg
+20240124	23:37:32	edcdcc98-a535-4c84-a620-fb649d01c238	GET	undefined	/
+20240124	23:37:32	404a67a7-8241-4b3c-bda0-68739b069bfc	GET	undefined	/css/style.css
+20240124	23:43:08	fb6e5598-db1f-4d2d-b89c-b2089f0d79b2	GET	undefined	/css/style.css
+20240124	23:43:24	5b21c7fd-0b48-41c7-a73c-f1614328a1a1	GET	undefined	/www.google.co.in
+20240124	23:46:56	4372bbd8-b47b-4391-a463-401d0a537d88	OPTIONS	https://www.google.com	/
+20240124	23:46:56	313c8783-ccdc-475d-a738-2283c5b97e4b	GET	https://www.google.com	/
+20240124	23:47:22	37fc80a9-307a-4b42-85f4-24a160593c11	OPTIONS	https://www.google.com	/
+20240124	23:47:22	05af3fe5-b17d-4d43-8970-4f41f3e37bf1	GET	https://www.google.com	/
+20240124	23:47:46	adedb6c9-2fa0-4592-9195-07c1c5405ed3	OPTIONS	https://www.google.com	/
+20240124	23:47:46	075ec7b7-fc86-4de3-bc29-9b95d016be32	GET	https://www.google.com	/
+20240124	23:49:38	f1f8b907-ab37-44d0-99f5-1a2320d8e620	OPTIONS	https://www.google.com	/
+20240124	23:49:38	e4e6b701-c5b0-4fe9-89a8-5c766fa53445	GET	https://www.google.com	/
+20240124	23:49:50	b9b5305d-e78e-49fd-b451-cca7f587c764	OPTIONS	https://www.google.com	/
+20240124	23:49:50	18a48d43-6084-413a-aa1a-7411f402da0c	GET	https://www.google.com	/

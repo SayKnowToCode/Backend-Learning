@@ -1,0 +1,2 @@
+20240124	23:49:38	c0838e42-f9fb-4863-b757-bafb682ec671	Error: Not allowed by CORS
+20240124	23:49:38	720484e6-8428-4572-b713-f5b5abe24c61	Error: Not allowed by CORS
